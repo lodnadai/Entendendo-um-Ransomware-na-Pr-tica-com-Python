@@ -1,0 +1,82 @@
+lorran@kali:~$ python encrypter.py  
+                                                                             
+lorran@kali:~$ ls
+Crypto             Desktop       pyaes
+decrypter.py       encrypter.py  teste.txt.ransomaretroll
+decrypter.py.save  myenv         teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~$ nano teste.txt   
+                                                                             
+lorran@kali:~$ nano decrypter.py
+                                                                             
+lorran@kali:~$ ls
+Crypto             Desktop       pyaes
+decrypter.py       encrypter.py  teste.txt.ransomaretroll
+decrypter.py.save  myenv         teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~$ nano teste.txt   
+                                                                             
+lorran@kali:~$ python encrypter.py
+                                                                             
+lorran@kali:~$ ls
+Crypto             Desktop       pyaes
+decrypter.py       encrypter.py  teste.txt.ransomaretroll
+decrypter.py.save  myenv         teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~$ nano teste.txt.ransomaretroll
+                                                                             
+lorran@kali:~$ nano teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~$ mkdir projeto-ransomware
+                                                                             
+lorran@kali:~$ cd projeto-ransomware
+                                                                             
+lorran@kali:~/projeto-ransomware$ 
+                                                                             
+lorran@kali:~/projeto-ransomware$ touch teste.txt
+                                                                             
+lorran@kali:~/projeto-ransomware$ touch encrypter.py
+                                                                             
+lorran@kali:~/projeto-ransomware$ touch decrypter.py
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano encrypter.py             
+                                                                             
+lorran@kali:~/projeto-ransomware$ ls               
+decrypter.py  encrypter.py  teste.txt
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano teste.txt                
+                                                                             
+lorran@kali:~/projeto-ransomware$ python encrypter.py
+                                                                             
+lorran@kali:~/projeto-ransomware$ ls
+decrypter.py  encrypter.py  teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~/projeto-ransomware$ python decrypter.py           
+                                                                             
+lorran@kali:~/projeto-ransomware$ ls
+decrypter.py  encrypter.py  teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~/projeto-ransomware$ python decrypter.py           
+                                                                             
+lorran@kali:~/projeto-ransomware$ ls
+decrypter.py  encrypter.py  teste.txt.ransomwaretroll
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano decrypter.py             
+                                                                             
+lorran@kali:~/projeto-ransomware$ python decrypter.py
+                                                                             
+lorran@kali:~/projeto-ransomware$ ls
+decrypter.py  encrypter.py  teste.txt
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano teste.txxt               
+                                                                             
+lorran@kali:~/projeto-ransomware$ nano teste.txt                
+                                                                             
+lorran@kali:~/projeto-ransomware$ 
+                                                                             
+lorran@kali:~/projeto-ransomware$ 
+                                                                             
+lorran@kali:~/projeto-ransomware$ 
+
